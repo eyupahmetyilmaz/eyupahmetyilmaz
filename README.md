@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+```ts
 const myFavoriteLanguages = [
   "HTML",
   "CSS",
@@ -7,5 +8,3 @@ const myFavoriteLanguages = [
   "TypeScript"
 ];
 ```
-
-:sparkles: My Stats
